@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake;-Dcan_fetch=YES;-P;/Users/dylanbeaumont/CLionProjects/Rockpool/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+command (disconnected)=/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake;-Dcan_fetch=NO;-P;/Users/dylanbeaumont/CLionProjects/Rockpool/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+work_dir=/Users/dylanbeaumont/CLionProjects/Rockpool/cmake-build-debug/_deps/raylib-src
